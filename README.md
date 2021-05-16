@@ -45,4 +45,4 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovam&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="joaovam" />
 
-</p>)
+</p>
