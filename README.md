@@ -1,12 +1,12 @@
 <h2 align="center">Hi 👋, I'm João Victor Amorim Vieira</h1>
-<h3 align="center">Computer Science Student.</h3>
-<h3 align="center">Currently studying at PUC Minas.</h3>
+<h3 align="center">Computer Science Student at PUC Minas, in Brazil.</h3>
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=carol-manso&label=Profile%20views&color=0e75b6&style=flat" alt="joaovam" />
 </p>
 
-- 🌱 I’m currently learning **Golang and Python**
+- 🌱 Currently interested in Cybersecurity and its fields. Right now studying **Golang** and **Computer Network**
 
 - 👨‍💻 All of my projects are available at [github.com/joaovam](https://github.com/joaovam)
 
@@ -16,6 +16,9 @@
 
 <p align="left">
 <a href="https://instagram.com/joao_vav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joaovam" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/joao-amorim-9a080a204/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="joaovam" height="40" width="40" /></a>
+  
+  
 </p>
 
 ### 🚀 Skills
@@ -28,15 +31,18 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
+  <a href="https://www.microsoft.com/en-us" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows" width="60" height="60"/> </a> 
+  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/> </a> 
-
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> 
-<a href="https://golang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="postgresql" width="60" height="60"/> </a> 
+<a href="https://golang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" width="60" height="60"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="postgresql" width="60" height="60"/><a>
-<a href="https://www.cplusplus.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg" alt="postgresql" width="60" height="60"/><a>
+<a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="60" height="60"/><a>
+  
+<a href="https://www.cplusplus.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg" alt="C plus plus" width="60" height="60"/><a>
+  <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R-project" width="60" height="60"/><a>
 </p>
 
 <p align="center">
