@@ -15,7 +15,7 @@
 ### Connect with me
 
 <p align="left">
-<a href="https://instagram.com/joao_vav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joaovam" height="40" width="40" /></a>
+<a href="https://instagram.com/joao_vav" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="joaovam" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/joao-amorim-9a080a204/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="joaovam" height="40" width="40" /></a>
   
   
