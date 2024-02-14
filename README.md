@@ -1,13 +1,13 @@
 <h2 align="center">Hi 👋, I'm João Victor Amorim Vieira</h1>
-<h3 align="center">Computer Science Student at PUC Minas, in Brazil.</h3>
+<h3 align="center">Master's Student in Computer Science at UFMG, in Brazil.</h3>
 
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=carol-manso&label=Profile%20views&color=0e75b6&style=flat" alt="joaovam" />
 </p>
 
-- 🌱 Currently interested in Cybersecurity and its fields. Right now studying **Golang** and **Computer Network**
-
+- 🌱 Currently enrolled in research on Compilers and Programming Languages in UFMG's Compiler's LAB
+- Also Interested in Computer Architecture and High Performance Computing
 - 👨‍💻 All of my projects are available at [github.com/joaovam](https://github.com/joaovam)
 
 - 📫 How to reach me **amorimvictorjoao3@gmail.com**
